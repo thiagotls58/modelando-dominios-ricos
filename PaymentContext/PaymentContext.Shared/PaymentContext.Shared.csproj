@@ -10,4 +10,10 @@
     <PackageReference Include="Flunt" Version="1.0.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Handlers\" />
+    <Folder Include="ValueObjects\" />
+  </ItemGroup>
+
 </Project>
